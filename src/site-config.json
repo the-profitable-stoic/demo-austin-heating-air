@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "Austin Heating & Air",
+    "phone": "+16615874702",
+    "category": "HVAC contractor",
+    "city": "Bakersfield",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Bakersfield's HVAC Experts",
+      "heroSubline": "Reliable heating and cooling solutions for your home or business. Call now for immediate service!",
+      "aboutTitle": "Keeping Bakersfield Comfortable Since 2012",
+      "aboutText": [
+        "Austin Heating & Air started with a single truck and a commitment to honest, hard work. We saw a need for dependable HVAC services in Bakersfield that prioritized quality and customer satisfaction above all else.",
+        "Our approach is simple: diagnose the problem accurately, explain the options clearly, and execute the repair or installation with precision. We stand behind our work, ensuring your comfort and peace of mind.",
+        "We're Bakersfield locals, and we're invested in this community. From sponsoring local youth sports to supporting charitable initiatives, we believe in giving back to the people who have supported us."
+      ],
+      "valueProps": [
+        {
+          "title": "Fast Response Times",
+          "description": "We understand that HVAC emergencies don't wait. That's why we offer prompt, reliable service when you need it most."
+        },
+        {
+          "title": "Experienced Technicians",
+          "description": "Our team is highly trained and certified to handle any HVAC issue, from routine maintenance to complex repairs and installations."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No surprises, no hidden fees. We provide clear, detailed estimates before any work begins, so you know exactly what to expect."
+        },
+        {
+          "title": "Quality Workmanship",
+          "description": "We use only the highest quality parts and materials, and we stand behind our work with a satisfaction guarantee."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Estimate Today!",
+      "ctaSubline": "Call now to schedule your service appointment and experience the Austin Heating & Air difference."
+    },
+    "services": [
+      {
+        "slug": "air-conditioning-repair",
+        "name": "Air Conditioning Repair",
+        "shortDescription": "Fast, reliable AC repair services to beat the Bakersfield heat.",
+        "description": "When your air conditioner breaks down in the middle of a Bakersfield summer, you need a repair service you can trust. We offer comprehensive AC repair services to get your system back up and running quickly and efficiently. Our technicians are experienced in diagnosing and repairing all types of AC units, from central air systems to ductless mini-splits. We address common issues like refrigerant leaks, compressor failures, and electrical problems. We understand the importance of a functioning AC system in Bakersfield's extreme climate, and we prioritize fast response times and lasting repairs. We service all major brands and offer 24/7 emergency repair services for those unexpected breakdowns. Regular maintenance can prevent costly repairs, so ask about our preventative maintenance plans. We’ll make sure your system is running efficiently and reliably. Don't sweat it out – call Austin Heating & Air for dependable AC repair!",
+        "process": [
+          "Step 1: Diagnose the problem using advanced diagnostic tools.",
+          "Step 2: Provide a clear and detailed estimate for the repair.",
+          "Step 3: Complete the repair efficiently and effectively, using quality parts.",
+          "Step 4: Test the system to ensure proper operation and your complete satisfaction."
+        ],
+        "benefits": [
+          "Restored cooling comfort in your home or business",
+          "Improved energy efficiency and lower utility bills",
+          "Extended lifespan of your air conditioning system",
+          "Peace of mind knowing your AC is working properly"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to an AC repair call?",
+            "answer": "We offer 24/7 emergency AC repair services in Bakersfield and strive to respond to all calls as quickly as possible, typically within a few hours."
+          },
+          {
+            "question": "What are the signs that my AC needs repair?",
+            "answer": "Common signs include weak airflow, strange noises, warm air blowing from the vents, and increased energy bills."
+          },
+          {
+            "question": "Do you offer a warranty on your AC repairs?",
+            "answer": "Yes, we stand behind our work with a warranty on all AC repairs. The specific warranty terms may vary depending on the type of repair."
+          }
+        ]
+      },
+      {
+        "slug": "air-conditioning-installation",
+        "name": "Air Conditioning Installation",
+        "shortDescription": "Expert AC installation for optimal cooling performance.",
+        "description": "Installing a new air conditioning system is a significant investment, and it's crucial to choose a contractor you can trust. We provide professional AC installation services for homes and businesses in Bakersfield and the surrounding areas. Our experienced technicians will help you select the right AC unit for your needs and budget, considering factors like square footage, insulation, and climate. We handle all aspects of the installation process, from removing the old unit to connecting the new one to the electrical and ductwork systems. We ensure proper sizing and installation to maximize energy efficiency and cooling performance. We work with all major brands and offer a variety of AC systems, including central air conditioners, ductless mini-splits, and heat pumps. We understand that Bakersfield summers can be brutal, and we're committed to providing reliable AC installation services that keep you cool and comfortable. We also offer financing options to make your new AC system more affordable. We ensure your new system is properly sized and installed for optimal performance. Contact us today for a free consultation!",
+        "process": [
+          "Step 1: Assess your cooling needs and recommend the right AC system.",
+          "Step 2: Provide a detailed estimate for the installation.",
+          "Step 3: Remove the old AC unit and prepare the installation site.",
+          "Step 4: Install the new AC unit and connect it to the electrical and ductwork systems."
+        ],
+        "benefits": [
+          "Improved cooling comfort and energy efficiency",
+          "Reduced energy bills and lower operating costs",
+          "Increased property value",
+          "Peace of mind knowing your AC is installed correctly"
+        ],
+        "faq": [
+          {
+            "question": "How do I choose the right size AC unit for my home?",
+            "answer": "We'll assess your home's square footage, insulation, and other factors to determine the appropriate AC unit size. Choosing the right size is crucial for optimal cooling performance and energy efficiency."
+          },
+          {
+            "question": "How long does AC installation typically take?",
+            "answer": "The installation time can vary depending on the complexity of the project, but it typically takes one to two days."
+          },
+          {
+            "question": "Do you offer financing options for AC installation?",
+            "answer": "Yes, we offer flexible financing options to make your new AC system more affordable."
+          }
+        ]
+      },
+      {
+        "slug": "heating-repair",
+        "name": "Heating Repair",
+        "shortDescription": "Reliable heating repair services to keep you warm during Bakersfield winters.",
+        "description": "While Bakersfield winters are mild, a functioning heating system is still essential for comfort. We offer comprehensive heating repair services to ensure your home or business stays warm and cozy. Our experienced technicians are skilled in diagnosing and repairing all types of heating systems, including furnaces, heat pumps, and boilers. We address common issues like ignition problems, blower motor failures, and gas leaks. We understand the importance of a reliable heating system during the colder months, and we prioritize fast response times and efficient repairs. We service all major brands and offer 24/7 emergency repair services for those unexpected breakdowns. Regular maintenance can prevent costly repairs, so ask about our preventative maintenance plans. We’ll keep your system running smoothly. Don't get caught in the cold – call Austin Heating & Air for dependable heating repair!",
+        "process": [
+          "Step 1: Diagnose the problem using advanced diagnostic tools.",
+          "Step 2: Provide a clear and detailed estimate for the repair.",
+          "Step 3: Complete the repair efficiently and effectively, using quality parts.",
+          "Step 4: Test the system to ensure proper operation and your complete satisfaction."
+        ],
+        "benefits": [
+          "Restored heating comfort in your home or business",
+          "Improved energy efficiency and lower utility bills",
+          "Extended lifespan of your heating system",
+          "Peace of mind knowing your heating is working properly"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to a heating repair call?",
+            "answer": "We offer 24/7 emergency heating repair services in Bakersfield and strive to respond to all calls as quickly as possible, especially during cold snaps."
+          },
+          {
+            "question": "What are the signs that my heating system needs repair?",
+            "answer": "Common signs include weak airflow, strange noises, a burning smell, and inconsistent heating."
+          },
+          {
+            "question": "Do you offer a warranty on your heating repairs?",
+            "answer": "Yes, we stand behind our work with a warranty on all heating repairs. The terms may vary depending on the repair."
+          }
+        ]
+      },
+      {
+        "slug": "heating-installation",
+        "name": "Heating Installation",
+        "shortDescription": "Professional heating installation for optimal warmth and energy efficiency.",
+        "description": "Installing a new heating system is a crucial investment for your home or business. We provide professional heating installation services in Bakersfield and the surrounding areas. Our experienced technicians will help you select the right heating unit for your needs and budget, considering factors like square footage, insulation, and climate. We handle all aspects of the installation process, from removing the old unit to connecting the new one to the gas line, electrical system, and ductwork. We ensure proper sizing and installation to maximize energy efficiency and heating performance. We work with all major brands and offer a variety of heating systems, including furnaces, heat pumps, and boilers. We understand the importance of a reliable heating system, and we're committed to providing heating installation services that keep you warm and comfortable. Contact us today for a free consultation! We can help you decide what system will be most energy efficient for your needs.",
+        "process": [
+          "Step 1: Assess your heating needs and recommend the right heating system.",
+          "Step 2: Provide a detailed estimate for the installation.",
+          "Step 3: Remove the old heating unit and prepare the installation site.",
+          "Step 4: Install the new heating unit and connect it to the necessary systems."
+        ],
+        "benefits": [
+          "Improved heating comfort and energy efficiency",
+          "Reduced energy bills and lower operating costs",
+          "Increased property value",
+          "Peace of mind knowing your heating is installed correctly"
+        ],
+        "faq": [
+          {
+            "question": "How do I choose the right type of heating system for my home?",
+            "answer": "We'll assess your home's specific needs and recommend the best heating system based on factors like fuel type, efficiency, and budget."
+          },
+          {
+            "question": "How long does heating installation typically take?",
+            "answer": "The installation time can vary depending on the complexity of the project, but it typically takes one to two days."
+          },
+          {
+            "question": "Do you offer rebates or incentives for new heating system installations?",
+            "answer": "We can help you identify any available rebates or incentives from utility companies or government programs."
+          }
+        ]
+      },
+      {
+        "slug": "duct-cleaning",
+        "name": "Duct Cleaning",
+        "shortDescription": "Improve your indoor air quality with professional duct cleaning services.",
+        "description": "Over time, dust, dirt, pollen, and other contaminants can accumulate in your air ducts, affecting your indoor air quality and potentially impacting your health. We offer professional duct cleaning services to remove these contaminants and improve the air you breathe. Our experienced technicians use specialized equipment to thoroughly clean your ductwork, removing allergens, irritants, and odors. Duct cleaning can also improve the efficiency of your HVAC system by allowing it to operate more effectively. This is especially important in Bakersfield, where dust and pollen are prevalent. If you notice excessive dust in your home, unexplained allergies, or musty odors, it may be time for duct cleaning. We recommend duct cleaning every 3-5 years, depending on your specific needs and environment. We are committed to providing duct cleaning services that improve your indoor air quality and your overall comfort. Breathe easier with clean air ducts!",
+        "process": [
+          "Step 1: Inspect the ductwork to assess the level of contamination.",
+          "Step 2: Use specialized equipment to loosen and remove debris.",
+          "Step 3: Sanitize the ductwork to kill bacteria and mold.",
+          "Step 4: Inspect the system to ensure thorough cleaning."
+        ],
+        "benefits": [
+          "Improved indoor air quality",
+          "Reduced allergens and irritants",
+          "Improved HVAC system efficiency",
+          "Elimination of odors"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my air ducts cleaned?",
+            "answer": "We recommend duct cleaning every 3-5 years, depending on your specific needs and environment. Homes with pets, smokers, or allergy sufferers may benefit from more frequent cleaning."
+          },
+          {
+            "question": "Is duct cleaning messy?",
+            "answer": "No, we use specialized equipment and techniques to minimize mess and disruption to your home."
+          },
+          {
+            "question": "Can duct cleaning help with allergies?",
+            "answer": "Yes, duct cleaning can remove allergens like dust mites, pollen, and pet dander, which can help alleviate allergy symptoms."
+          }
+        ]
+      },
+      {
+        "slug": "preventative-maintenance",
+        "name": "Preventative Maintenance",
+        "shortDescription": "Extend the life of your HVAC system with our preventative maintenance plans.",
+        "description": "Regular preventative maintenance is essential for keeping your HVAC system running efficiently and reliably. We offer comprehensive preventative maintenance plans to help you avoid costly repairs and extend the lifespan of your equipment. Our experienced technicians will inspect, clean, and tune up your HVAC system, identifying and addressing potential problems before they become major issues. This includes checking refrigerant levels, cleaning coils, lubricating motors, and inspecting electrical components. Preventative maintenance can also improve energy efficiency and lower your utility bills. In Bakersfield's demanding climate, regular maintenance is especially important to ensure your HVAC system can handle the extreme heat and occasional cold snaps. We offer flexible maintenance plans to fit your specific needs and budget. Protect your investment and ensure your comfort with our preventative maintenance services!",
+        "process": [
+          "Step 1: Inspect the HVAC system for any signs of wear or damage.",
+          "Step 2: Clean coils, filters, and other components.",
+          "Step 3: Lubricate motors and other moving parts.",
+          "Step 4: Check refrigerant levels and electrical connections."
+        ],
+        "benefits": [
+          "Extended lifespan of your HVAC system",
+          "Reduced repair costs",
+          "Improved energy efficiency",
+          "Lower utility bills"
+        ],
+        "faq": [
+          {
+            "question": "How often should I schedule preventative maintenance?",
+            "answer": "We recommend scheduling preventative maintenance at least once a year, preferably in the spring for AC and fall for heating."
+          },
+          {
+            "question": "What is included in a preventative maintenance service?",
+            "answer": "Our preventative maintenance service includes a thorough inspection, cleaning, and tune-up of your HVAC system."
+          },
+          {
+            "question": "Can preventative maintenance really save me money?",
+            "answer": "Yes, preventative maintenance can help you avoid costly repairs, improve energy efficiency, and extend the lifespan of your HVAC system, ultimately saving you money in the long run."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-hvac",
+        "name": "Commercial HVAC Services",
+        "shortDescription": "HVAC solutions for Bakersfield businesses.",
+        "description": "We understand the unique HVAC needs of businesses in Bakersfield. From retail spaces to office buildings, we offer comprehensive commercial HVAC services to keep your employees and customers comfortable. We provide installation, repair, and maintenance services for all types of commercial HVAC systems, including rooftop units, chillers, and ventilation systems. Our experienced technicians are trained to handle the demands of commercial HVAC equipment and ensure efficient, reliable operation. We also offer energy-efficient solutions to help you lower your operating costs. We know that downtime can be costly for your business, so we prioritize fast response times and efficient repairs. Whether you need a new HVAC system installed or routine maintenance performed, we're here to help. We are committed to providing commercial HVAC services that meet the specific needs of your business. Keeping your business comfortable.",
+        "process": [
+          "Step 1: Assess the specific HVAC needs of your commercial space.",
+          "Step 2: Design and install a customized HVAC system.",
+          "Step 3: Provide ongoing maintenance and repair services.",
+          "Step 4: Offer energy-efficient solutions to lower operating costs."
+        ],
+        "benefits": [
+          "Improved comfort for employees and customers",
+          "Reduced energy costs",
+          "Minimized downtime",
+          "Extended lifespan of your HVAC system"
+        ],
+        "faq": [
+          {
+            "question": "Do you offer emergency HVAC services for businesses?",
+            "answer": "Yes, we offer 24/7 emergency HVAC services for businesses in Bakersfield."
+          },
+          {
+            "question": "Can you help me choose the right HVAC system for my commercial space?",
+            "answer": "Yes, our experienced technicians can assess your needs and recommend the best HVAC system for your business."
+          },
+          {
+            "question": "Do you offer maintenance contracts for commercial HVAC systems?",
+            "answer": "Yes, we offer customizable maintenance contracts to keep your HVAC system running smoothly and efficiently."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Bakersfield",
+        "slug": "bakersfield-ca",
+        "state": "CA",
+        "content": "Austin Heating & Air is proud to serve the residents and businesses of Bakersfield, CA. We understand the unique climate challenges faced in Kern County, from scorching summers to surprisingly chilly winter nights. Our team of experienced technicians is dedicated to providing reliable and efficient HVAC services to keep you comfortable year-round.\n\nWhether you need a new air conditioning system installed, your furnace repaired, or routine maintenance performed, we have the expertise and commitment to quality that you can trust. We use only the highest quality equipment and materials, and we stand behind our work with a satisfaction guarantee. We're dedicated to keeping your home or business comfortable, no matter the season.",
+        "localContext": "Bakersfield is a vibrant city known for its agricultural heritage and country music scene, experiencing significant temperature variations throughout the year.",
+        "nearbyAreas": [
+          "Oildale",
+          "Rosedale",
+          "Lamont"
+        ]
+      },
+      {
+        "city": "Oildale",
+        "slug": "oildale-ca",
+        "state": "CA",
+        "content": "Austin Heating & Air extends its expert HVAC services to the community of Oildale, CA. We are committed to ensuring your home or business remains comfortable throughout the year. We understand the specific needs of Oildale residents and offer tailored solutions for air conditioning, heating, and ventilation.\n\nFrom regular maintenance to emergency repairs, our skilled technicians are equipped to handle any HVAC challenge. We pride ourselves on prompt, reliable service and transparent pricing. We always strive to exceed your expectations and provide the best possible service.",
+        "localContext": "Oildale is a close-knit community with a rich history tied to the oil industry, experiencing similar climate patterns to Bakersfield.",
+        "nearbyAreas": [
+          "Bakersfield",
+          "Rosedale",
+          "Pumpkin Center"
+        ]
+      },
+      {
+        "city": "Rosedale",
+        "slug": "rosedale-ca",
+        "state": "CA",
+        "content": "Austin Heating & Air is pleased to offer comprehensive HVAC services to the residents of Rosedale, CA. We understand the importance of a comfortable home environment, especially during the hot summer months. Our team is dedicated to providing reliable and efficient solutions for all your heating and cooling needs.\n\nWe offer a wide range of services, including AC installation, furnace repair, duct cleaning, and preventative maintenance. We use only top-quality equipment and materials. You can rely on us for prompt, professional, and affordable services.",
+        "localContext": "Rosedale is a growing suburban community known for its agricultural lands and family-friendly atmosphere, requiring efficient HVAC systems to combat the summer heat.",
+        "nearbyAreas": [
+          "Bakersfield",
+          "Oildale",
+          "Shafter"
+        ]
+      },
+      {
+        "city": "Shafter",
+        "slug": "shafter-ca",
+        "state": "CA",
+        "content": "Austin Heating & Air proudly serves the city of Shafter, CA, providing top-notch HVAC services to homes and businesses. We understand the unique climate challenges in Shafter, and we are committed to keeping your indoor environment comfortable year-round.\n\nOur experienced technicians are equipped to handle any HVAC issue, from routine maintenance to complex repairs. We offer a full range of services, including air conditioning installation, furnace repair, duct cleaning, and more. We are dedicated to providing prompt, reliable, and affordable services to the Shafter community.",
+        "localContext": "Shafter is a thriving agricultural community with a strong sense of community, relying on efficient HVAC systems to manage the hot and dry climate.",
+        "nearbyAreas": [
+          "Wasco",
+          "Rosedale",
+          "Buttonwillow"
+        ]
+      },
+      {
+        "city": "Wasco",
+        "slug": "wasco-ca",
+        "state": "CA",
+        "content": "Austin Heating & Air is dedicated to providing exceptional HVAC services to the residents and businesses of Wasco, CA. We understand the importance of a reliable heating and cooling system in the Central Valley and are committed to ensuring your comfort.\n\nOur team of skilled technicians offers a comprehensive range of services, including AC repair, furnace installation, ductwork inspection, and preventative maintenance. We use only high-quality equipment and materials, and we stand behind our work with a satisfaction guarantee. We are committed to providing prompt, professional, and affordable services to the Wasco community.",
+        "localContext": "Wasco is a vibrant agricultural hub known for its rose production, requiring dependable HVAC systems to navigate the hot summers and mild winters.",
+        "nearbyAreas": [
+          "Shafter",
+          "Lost Hills",
+          "Buttonwillow"
+        ]
+      },
+      {
+        "city": "Tehachapi",
+        "slug": "tehachapi-ca",
+        "state": "CA",
+        "content": "Austin Heating & Air is proud to extend its HVAC services to the community of Tehachapi, CA. We understand the unique climate challenges of Tehachapi, with its cooler temperatures and occasional snowfall. Our team is dedicated to providing reliable and efficient heating and cooling solutions to keep you comfortable throughout the year.\n\nWe offer a full range of services, including furnace installation, air conditioning repair, duct cleaning, and preventative maintenance. We use only high-quality equipment and materials, and we stand behind our work with a satisfaction guarantee. We are committed to providing prompt, professional, and affordable services to the Tehachapi community.",
+        "localContext": "Tehachapi is a charming mountain town known for its wind farms and railway history, experiencing cooler temperatures than Bakersfield and requiring reliable heating systems.",
+        "nearbyAreas": [
+          "Mojave",
+          "California City",
+          "Arvin"
+        ]
+      },
+      {
+        "city": "Arvin",
+        "slug": "arvin-ca",
+        "state": "CA",
+        "content": "Austin Heating & Air is pleased to offer its comprehensive HVAC services to the residents of Arvin, CA. We understand the demands placed on heating and cooling systems in Arvin and are committed to providing reliable and efficient solutions.\n\nOur skilled technicians are equipped to handle any HVAC issue, from routine maintenance to complex repairs. We offer a full range of services, including air conditioning installation, furnace repair, duct cleaning, and more. We are dedicated to providing prompt, reliable, and affordable services to the Arvin community.",
+        "localContext": "Arvin is a primarily agricultural city known for its grape production, experiencing hot summers and mild winters, demanding efficient and reliable HVAC systems.",
+        "nearbyAreas": [
+          "Lamont",
+          "Weedpatch",
+          "Bakersfield"
+        ]
+      },
+      {
+        "city": "Lamont",
+        "slug": "lamont-ca",
+        "state": "CA",
+        "content": "Austin Heating & Air is dedicated to providing top-quality HVAC services to the residents and businesses of Lamont, CA. We recognize the importance of a comfortable indoor environment, especially during the hot summer months, and we are committed to ensuring your comfort.\n\nOur team offers a full range of services, including AC repair, furnace installation, ductwork inspection, and preventative maintenance. We use only high-quality equipment and materials, and we stand behind our work with a satisfaction guarantee. We are committed to providing prompt, professional, and affordable services to the Lamont community.",
+        "localContext": "Lamont is a small agricultural community characterized by its close-knit atmosphere and reliance on efficient HVAC systems to combat the summer heat.",
+        "nearbyAreas": [
+          "Arvin",
+          "Weedpatch",
+          "Bakersfield"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "AC Repair",
+        "text": "Our AC went out during the worst heat wave! Austin Heating & Air was able to come out the same day and fix the problem quickly. The technician, Mike, was very professional and explained everything clearly. We really appreciate their fast and reliable service!",
+        "date": "2025-07-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Heating Installation",
+        "text": "We recently had a new furnace installed by Austin Heating & Air. The installation process was smooth and efficient. The team was respectful of our home and cleaned up everything afterwards. We're happy with the new furnace and the service we received. There were a few minor hiccups, but they were addressed quickly.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Linda K.",
+        "rating": 5,
+        "service": "Duct Cleaning",
+        "text": "I had my air ducts cleaned by Austin Heating & Air, and I'm so glad I did! I've noticed a significant improvement in my indoor air quality. I'm breathing easier, and my allergies have improved. The technician was very thorough and professional. I would highly recommend their duct cleaning service.",
+        "date": "2024-11-03"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 5,
+        "service": "Preventative Maintenance",
+        "text": "I've been using Austin Heating & Air for preventative maintenance for years, and they always do a great job. They keep my HVAC system running smoothly and efficiently. I highly recommend their preventative maintenance services to anyone who wants to avoid costly repairs.",
+        "date": "2025-05-20"
+      },
+      {
+        "name": "Susan B.",
+        "rating": 4,
+        "service": "AC Installation",
+        "text": "Austin Heating & Air installed a new AC unit in our home. The team was professional and efficient. The price was competitive, and we're happy with the new AC unit. The installation took a little longer than expected, but the final result was excellent.",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Michael L.",
+        "rating": 5,
+        "service": "Commercial HVAC Repair",
+        "text": "Our business' AC went down during a busy day. Austin Heating & Air responded quickly and resolved the issue. They kept us up and running. Their commercial HVAC service is top notch and we depend on them.",
+        "date": "2025-08-15"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Austin Heating & Air | Bakersfield HVAC",
+        "description": "Bakersfield's trusted HVAC contractor. AC & heating repair, installation, & maintenance. Call for a free estimate!"
+      },
+      "about": {
+        "title": "About Austin Heating & Air",
+        "description": "Learn about our Bakersfield HVAC company's history, values, and commitment to the community."
+      },
+      "services": {
+        "title": "HVAC Services | Bakersfield, CA",
+        "description": "Comprehensive HVAC services in Bakersfield, CA. AC repair, heating installation, duct cleaning, and more."
+      },
+      "contact": {
+        "title": "Contact Austin Heating & Air",
+        "description": "Contact us for HVAC service. Call, email, or fill out our online form for a free estimate."
+      },
+      "reviews": {
+        "title": "Austin Heating & Air Reviews",
+        "description": "Read what our satisfied customers are saying about our HVAC services in Bakersfield."
+      },
+      "service-areas": {
+        "title": "Service Areas | Austin Heating & Air",
+        "description": "We proudly serve Bakersfield and surrounding areas with top-quality HVAC services."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "air-conditioning-repair": "/images/service-air-conditioning-repair.webp",
+      "air-conditioning-installation": "/images/service-air-conditioning-installation.webp",
+      "heating-repair": "/images/service-heating-repair.webp",
+      "heating-installation": "/images/service-heating-installation.webp",
+      "duct-cleaning": "/images/service-duct-cleaning.webp",
+      "preventative-maintenance": "/images/service-preventative-maintenance.webp",
+      "commercial-hvac": "/images/service-commercial-hvac.webp"
+    },
+    "servicesResponsive": {
+      "air-conditioning-repair": {
+        "src": "/images/service-air-conditioning-repair.webp",
+        "srcset": "/images/service-air-conditioning-repair-400w.webp 400w, /images/service-air-conditioning-repair-800w.webp 800w, /images/service-air-conditioning-repair-1200w.webp 1200w, /images/service-air-conditioning-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "air-conditioning-installation": {
+        "src": "/images/service-air-conditioning-installation.webp",
+        "srcset": "/images/service-air-conditioning-installation-400w.webp 400w, /images/service-air-conditioning-installation-800w.webp 800w, /images/service-air-conditioning-installation-1200w.webp 1200w, /images/service-air-conditioning-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "heating-repair": {
+        "src": "/images/service-heating-repair.webp",
+        "srcset": "/images/service-heating-repair-400w.webp 400w, /images/service-heating-repair-800w.webp 800w, /images/service-heating-repair-1200w.webp 1200w, /images/service-heating-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "heating-installation": {
+        "src": "/images/service-heating-installation.webp",
+        "srcset": "/images/service-heating-installation-400w.webp 400w, /images/service-heating-installation-800w.webp 800w, /images/service-heating-installation-1200w.webp 1200w, /images/service-heating-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "duct-cleaning": {
+        "src": "/images/service-duct-cleaning.webp",
+        "srcset": "/images/service-duct-cleaning-400w.webp 400w, /images/service-duct-cleaning-800w.webp 800w, /images/service-duct-cleaning-1200w.webp 1200w, /images/service-duct-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "preventative-maintenance": {
+        "src": "/images/service-preventative-maintenance.webp",
+        "srcset": "/images/service-preventative-maintenance-400w.webp 400w, /images/service-preventative-maintenance-800w.webp 800w, /images/service-preventative-maintenance-1200w.webp 1200w, /images/service-preventative-maintenance.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-hvac": {
+        "src": "/images/service-commercial-hvac.webp",
+        "srcset": "/images/service-commercial-hvac-400w.webp 400w, /images/service-commercial-hvac-800w.webp 800w, /images/service-commercial-hvac-1200w.webp 1200w, /images/service-commercial-hvac.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
